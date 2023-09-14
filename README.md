@@ -1,37 +1,37 @@
+![Logo](https://energized-baseball-7687-roshanaas.vercel.app/static/media/BusyKids.0653874d086f04d99ce6.png "Project Logo")
 
-<img src="https://energized-baseball-7687-roshanaas.vercel.app/static/media/BusyKids.0653874d086f04d99ce6.png" alt="Logo" title="Project Logo">
+# React Group Project - Busy Kids
 
+This is the logo of the Busy Kids website. Busy Kids is an online finance teaching website that educates kids about financial awareness and provides a team of skilled instructors. Children can learn basic day-to-day financial systems and play financial games on this platform.
 
-<h1><b>React Group Project</b></h1>
-<h1>Name - Busy Kids</h1>
-
-This is the Logo of the The Busy Kids website. The Busy Kids is an online Finance Teaching Website which is teaches Finance Awareness to kids and alos provides the best team of instructors. From this website, kids can learn some baisc day to day life used finance system and play some financial games.
-
-To see the live site click the below link.
+To see the live site, click the link below:
 [See Live](https://energized-baseball-7687-roshanaas.vercel.app/)
 
+## Built with
+- React JS
+- Redux
+- HTML
+- CSS
+- JavaScript
+- JSON server
 
-<h1>Built with</h1>
-React JS,
-redux,
-HTML,
-CSS,
-JavaScript,
-JSON server
+## Used Libraries
+- Node Modules
+- Styled-Components
+- HTML Components
+- Chakra UI
+- React-Router-DOM
 
-<h1>Used libraries</h1>
-node modules,
-Styled-Components,
-HTML Components,
-Chakra Ui,
-react-router-dom
+## Features
+- Signup
+- Login
+- Sorting
+- Searching Functionality
+- Filtering
+- Pagination
+- Real-Time Payment
+- Firebase Authentication
 
-<h1>Features</h1>
-Signup,
-Login,
-Sorting,
-Searching Functionality,
-filtering ,
-Pagination,
-Real Time Payment 
-Firebase authentication
+
+
+
